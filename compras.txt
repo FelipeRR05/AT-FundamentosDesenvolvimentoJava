@@ -1,0 +1,3 @@
+Produto: Vaso | Quantidade: 10 | Preço: R$ 5,00 | Total: R$ 50,00
+Produto: Carne | Quantidade: 5 | Preço: R$ 50,00 | Total: R$ 250,00
+Produto: Roupa | Quantidade: 2 | Preço: R$ 150,00 | Total: R$ 300,00
